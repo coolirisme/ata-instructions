@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Trigger Analyzer App Post-Installation Instructions
+          Apex Trigger Analyzer Post-Installation Instructions
         </p>
       </header>
     </div>
